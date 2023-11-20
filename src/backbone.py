@@ -5,7 +5,7 @@ import tensorflow as tf
 
 class ECA(tf.keras.layers.Layer):
     """
-    Efficient Channel Attention layer.
+    Efficient Channel Attention  layer.
 
     Args:
         kernel_size (int): Size of the kernel for the convolutional layer.
